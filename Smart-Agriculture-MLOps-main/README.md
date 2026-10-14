@@ -1,3 +1,7 @@
+
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/1b0521c8-793b-4cea-9a2b-ac21288ff919" />
+
+
 # Smart Agriculture MLOps
 
 An AI-powered agriculture application with a FastAPI backend, React frontend, and machine-learning models for crop, fertilizer, irrigation, price, and yield predictions.
